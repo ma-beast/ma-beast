@@ -1,8 +1,97 @@
+<a id="top"></a>
+
 <p align="center">
   <img src="ma-beast-banner.png" alt="MA-BEAST — retro computing, cat and BASIC" width="100%">
 </p>
 
+[English](#english) | [Русский](#russian)
+
+<a id="english"></a>
+
 # MA-BEAST
+
+**Mikhail Zverev — engineer, programmer, occasional writer, and enthusiast for technology that is still too early to throw away.**
+
+Born in the USSR, living in Ukraine.
+
+Over the years I have worked in around twenty professions: medical equipment technician, electrician, programmer, laser technician, photographer, communications technician, TV repairman, printing-equipment mechanic, high-altitude cable installer, and quite a few others. Often two or three jobs at the same time.
+
+I have practised sport and historical fencing, underwater swimming, radio direction finding, aircraft modelling and ship modelling.
+
+These days I am mostly a homebody, husband and father.
+
+I have been writing since March 2014.  
+**For hooligan reasons. And when there is nothing left to read.**
+
+---
+
+## Old hardware is still too early to throw away
+
+I am interested in small programs that return practical use to old computers, phones and operating systems.
+
+Not emulation for emulation's sake and not museum pieces behind glass, but a simple principle:
+
+> **If the machine still works, let's try to make it do something useful.**
+
+### Naive BASIC
+
+A BASIC interpreter for Android, including genuinely old devices.
+
+The classic approach: write a program → `RUN` → get a result. No need to turn a few lines of BASIC into a modern software project.
+
+The finished **[Naive BASIC bas2apk with NaiveWORK](https://github.com/ma-beast/Naive-BASIC-bas2apk)** turns compatible BASIC programs into standalone Android APKs.
+
+**[Naive BASIC](https://github.com/ma-beast/Naive-BASIC)** · **[Examples-BAS](https://github.com/ma-beast/Examples-BAS)**
+
+### NOS-Pipe
+
+A lightweight shell for watching YouTube on old and weak computers that can no longer cope with the modern web.
+
+The project has been tested on **Windows, macOS and Linux**. It is based on Java 5 and can in principle run on other operating systems where **Java 5 or newer** and a suitable media player are available.
+
+Old Windows versions, weak processors and tiny screens — the things modern websites have long considered archaeology.
+
+### NOS-Gate
+
+A gateway between the modern Internet and old browsers.
+
+The idea is simple: NOS-Gate receives the heavy modern page, while the old computer gets something it can still display and use normally.
+
+### NecronomicOS
+
+The project that gave this whole workshop its name.
+
+A separate project page is being prepared.
+
+---
+
+## I also write
+
+Science fiction, fantasy, and whatever appears when there is nothing left to read and sitting idle is not an option.
+
+My texts are published in the Russian-language **Samizdat magazine**:  
+**[Mikhail Zverev's author page](https://samlib.ru/z/zwerew_m_a/)**
+
+---
+
+## Workshop philosophy
+
+**Small apps. Old hardware. Big joy.**
+
+This is not about proving that a twenty-year-old computer is better than a modern one.
+
+It is about finding out **what it can still do.**
+
+`10 PRINT "IDEAS ALWAYS RUN"`  
+`20 GOTO 10`
+
+[Русский](#russian) | [↑ Top](#top)
+
+---
+
+<a id="russian"></a>
+
+# MA-BEAST — Русский
 
 **Михаил Зверев — инженер, программист, немного писатель и любитель техники, которую ещё рано выбрасывать.**
 
@@ -31,10 +120,11 @@
 
 BASIC-интерпретатор для Android, включая действительно старые устройства.
 
-Классический подход: написал программу → `RUN` → получил результат.  
-Без необходимости превращать несколько строк BASIC в современный программный проект.
+Классический подход: написал программу → `RUN` → получил результат. Без необходимости превращать несколько строк BASIC в современный программный проект.
 
-В состав проекта также входит готовый **Naive BASIC bas2apk с NaiveWORK** — инструмент для превращения BASIC-программ в самостоятельные Android APK.
+Готовый **[Naive BASIC bas2apk с NaiveWORK](https://github.com/ma-beast/Naive-BASIC-bas2apk)** превращает совместимые BASIC-программы в самостоятельные Android APK.
+
+**[Naive BASIC](https://github.com/ma-beast/Naive-BASIC)** · **[Examples-BAS](https://github.com/ma-beast/Examples-BAS)**
 
 ### NOS-Pipe
 
@@ -77,3 +167,5 @@ BASIC-интерпретатор для Android, включая действит
 
 `10 PRINT "IDEAS ALWAYS RUN"`  
 `20 GOTO 10`
+
+[English](#english) | [↑ Наверх](#top)
