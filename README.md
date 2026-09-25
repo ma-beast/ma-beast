@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ma-beast-banner.png" alt="MA-BEAST — retro computing, cat and BASIC" width="100%">
+</p>
+
 # MA-BEAST
 
 **Михаил Зверев — инженер, программист, немного писатель и любитель техники, которую ещё рано выбрасывать.**
